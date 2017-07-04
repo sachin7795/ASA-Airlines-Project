@@ -1,0 +1,1 @@
+Import ASA Airlines file from Database folder in phpMyAdmin to get all table's structure.

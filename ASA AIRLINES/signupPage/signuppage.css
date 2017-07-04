@@ -1,0 +1,107 @@
+h1{
+	text-align : center;
+	font-family : forte;
+	font-size : 70px;
+	color : f4f4f4;
+	background-color : #000;
+	width : 1330px;
+	height : 80px;
+	margin : 2px;
+	padding : 10px 0px;
+	border-top-left-radius : 20px;
+	border-top-right-radius : 20px;
+	
+}
+
+#footer{
+	text-align : center;
+	background-color : black;
+	color : white;
+	margin : 2px;
+	width : 1330px;
+}
+
+#signup_details{
+	float : left;
+	margin : 10px;
+	padding : 10px;
+	position : center;
+	width : auto;
+	height : 800px;
+	background-color : f4f4f4;
+	
+	
+}
+
+span{
+	margin-left : 10px;
+	color : red;
+	
+}
+
+h2{
+	color : #00ced1;
+	font-weight : bold;
+	font-family : calibri;
+	font-size : 50px;
+	margin-left : 5px;
+	margin-bottom : 30px;
+	margin-top : 10px;
+}
+
+label{
+	margin : 5px;
+	font-size : 25px;
+	font-family : calibri;
+	
+}
+
+#signup_button{
+	background-color : #00ced1;
+	color : white;
+	font-size : 30px;
+	padding : 2px;
+	
+	
+}
+
+.side{
+	float : left;
+}
+
+#home{
+	margin-left : 70px;
+	width : 525px;
+	color : white;
+	background-color : red;
+	margin-top : 10px;
+}
+
+.container{
+	
+	padding : 10px;
+	position : center;
+	width : 1310px;
+	height : 900px;
+	background-color : f4f4f4;
+	margin : 2px;
+	
+}
+
+input{
+	width : 600px;
+	height : 50px;
+	border-radius : 10px;
+	margin : 5px;
+	font-size : 25px;
+	
+}
+
+img{
+	float : left;
+	width : 525px;
+	height : 525px;
+	margin-top : 155px;
+	margin-left : 70px;
+	border-radius : 20px;
+}

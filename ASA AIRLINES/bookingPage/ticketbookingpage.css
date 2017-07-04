@@ -1,0 +1,183 @@
+h1{
+	text-align : center;
+	font-family : forte;
+	font-size : 70px;
+	color : #f4f4f4;
+	background-color : #000;
+	width : 1320px;
+	height : 80px;
+	margin : 2px;
+	padding : 10px 0px;
+	border-top-left-radius : 20px;
+	border-top-right-radius : 20px;
+	
+}
+
+
+.container{
+	width : 1300px;
+	height : 550px;
+	position : center;
+	margin : 2px;
+	padding : 10px;
+	background-color : #f4f4f4;
+	
+	
+}	
+
+.msg{
+	color : red;
+	font-family : calibri;
+	font-size : 30px;
+	background-color : yellow;
+	width : 1320px;
+	text-align : center;
+}
+
+#footer{
+	text-align : center;
+	background-color : black;
+	color : white;
+	width : 1320px;
+	margin-left : 2px;
+}
+
+h2{
+	color : #00cde1;
+	font-size : 50px;
+	font-family : calibri;
+	text-align : center;
+	font-weight : bold;
+	text-decoration : underline;
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+
+input{
+	font-family : calibri;
+	width : 220px;
+	height : 22px;
+	font-size : 15px;	
+	margin : 10px;
+	border-radius : 10px;
+	float : left;
+}
+
+label{
+	font-size : 18px;
+	font-family : calibri;
+	margin : 10px;
+	width : 120px;
+	display:block;
+	float : left;
+	
+	
+}
+
+#classlabel{
+	margin-left :10px;
+	clear : both;
+}
+
+#fieldsetid{
+	padding : 15px;
+	width : 1200px;
+	margin-left : 30px;
+	float:left;
+	
+}
+
+legend{
+	color : #00cde1;
+	font-size : 20px;
+	font-family : calibri;
+	font-weight : bold;
+}
+
+#flight_details{
+	text-align :center;
+	float:left;
+	width : 1200px;
+}
+
+#fieldsetidp{
+	width : 1000px;
+	clear : both;
+	margin-left : 30px;
+	padding : 15px;
+	margin-bottom : 20px;
+}
+
+
+
+
+#passenger_details label{
+	float : left;
+	display : block;
+	width : 45px;
+	
+}
+
+p{
+	font-family : calibri;
+	font-size : 18px;
+	margin-left : 10px;
+	margin-bottom : 10px;
+	margin-top:10px;
+}
+
+#passenger_details{
+	clear:both;
+	width : 1000px;
+	margin-left: 190px;
+	margin-right: 10px;
+	
+	
+}
+
+#idspan{
+	text-align : center;
+	color:red;
+	font-family:calibri;
+	font-size:20px;
+	font-weight:bold;
+}
+
+select{
+	font-family : calibri;
+	width : 220px;
+	height : 22px;
+	font-size : 15px;	
+	margin : 10px;
+	border-radius : 10px;
+}
+
+#pfatherlabel{
+		float : left;
+		margin-top : 12px;
+		font-family:calibri;
+		width : 120px;
+		margin-left:10px;
+		}
+
+
+#bookbut{
+		background-color : #00cde1;
+		color : white;
+		margin-left:400px;
+		height : 40px;
+		font-size : 25px;
+		font-family:calibri;
+}
+
+#cancelbut{
+	background-color:red;
+	color:white;
+	height : 40px;
+	font-size : 25px;
+	font-family:calibri;
+}
+
+#pgender{
+	margin-left:75px;
+}

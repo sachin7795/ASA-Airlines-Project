@@ -1,0 +1,191 @@
+h1{
+	text-align : center;
+	font-family : forte;
+	font-size : 70px;
+	color : #f4f4f4;
+	background-color : #000;
+	width : 1320px;
+	height : 80px;
+	margin : 2px;
+	padding : 10px 0px;
+	border-top-left-radius : 20px;
+	border-top-right-radius : 20px;
+	
+}
+
+
+.container{
+	width : 1300px;
+	height : 490px;
+	position : center;
+	margin : 2px;
+	padding : 10px;
+	background-color : #f4f4f4;
+	
+	
+}	
+
+p{
+	margin-left : 20px;
+	color : red;
+	font-family : calibri;
+}
+
+#footer{
+	text-align : center;
+	background-color : black;
+	color : white;
+	width : 1320px;
+	margin-left : 2px;
+}
+
+h2{
+	color : #0000e5;
+	font-size : 50px;
+	font-family : calibri;
+	text-align : center;
+	font-weight : bold;
+	text-decoration : underline;
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+
+
+
+.container div{
+	font-family : calibri;
+	width : 220px;
+	height : 22px;
+	font-size : 15px;	
+	text-align : center;
+	text-transform : uppercase;
+	float : left;
+	border : 1px solid black;
+}
+
+#upimage{
+	margin-bottom : 0px;
+	height : 90px;
+	width : 1198px;
+	border-top-left-radius : 15px;
+	border-top-right-radius : 15px;
+	margin-left : 31px;
+	
+}
+
+#sideimage{
+	float : left;
+	margin-left : 2px;
+	width : 65px;
+	height : 90px;
+	border : 5px solid black;
+}
+
+#downimagediv{
+	border : none;
+	margin-left : 1px;
+	margin-top : 75px;
+	
+	
+}
+
+hr{
+	width : 1330px;
+}
+
+#downimage{
+	clear : both;
+	margin-bottom : 0px;
+	height : 50px;
+	width : 1188px;
+	margin-left : 400px;
+	border : 5px solid black;
+	border-bottom-right-radius : 15px;
+	margin-left : 30px;
+	border-bottom-left-radius : 15px;
+}
+
+
+label{
+	font-size : 18px;
+	font-family : calibri;
+	border : 1px solid black;
+	width : 150px;
+	display:block;
+	float : left;
+	text-align : center;
+	
+	
+}
+
+#homebut{
+	border-radius : 20px;
+	width : 200px;
+	float : left;
+	clear : both;
+	background-color:yellow;
+	color:black;
+	Margin-left : 30px;
+	Margin-top : 100px;
+	height : 50px;
+	font-size : 25px;
+	font-family:calibri;
+}
+
+#morebookbut{
+	border-radius : 20px;
+	width : 250px;
+	float : left;
+	
+	background-color:red;
+	color:white;
+	Margin-left : 250px;
+	Margin-top : 100px;
+	height : 50px;
+	font-size : 25px;
+	font-family:calibri;
+}
+
+#printbut{
+	border-radius : 20px;
+	width : 200px;
+	float : left;
+	
+	background-color:#00cde1;
+	color:white;
+	Margin-left : 300px;
+	Margin-top : 100px;
+	height : 50px;
+	font-size : 25px;
+	font-family:calibri;
+}
+
+#info{
+	width : 1125px;
+	
+	height : 200px;
+	margin-top : 0px;
+	display : block;
+	margin-left :0px;
+	border : none;
+	float : left;
+}
+
+#datelabel{
+	clear : both;
+}
+
+#deplabel{
+	clear : both;
+}
+
+#namelabel{
+	clear : both;
+}
+
+#table{
+	width : 1250px;
+	border : none;
+	margin-left : 29px;
+	margin-top : 0px;
+}

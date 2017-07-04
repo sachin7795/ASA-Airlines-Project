@@ -1,0 +1,108 @@
+h1{
+	text-align : center;
+	font-family : forte;
+	font-size : 70px;
+	color : f4f4f4;
+	background-color : #000;
+	width : 1330px;
+	height : 80px;
+	margin : 2px;
+	padding : 10px 0px;
+	border-top-left-radius : 20px;
+	border-top-right-radius : 20px;
+	
+}
+
+#home{
+	color : #f9f9f9;
+	background-color : red;
+	width : 700px;
+	margin : 5px 30px;
+	text-align :center;
+}
+
+#msg{
+	color : red;
+	font-family : calibri;
+	font-size : 30px;
+	background-color : yellow;
+	width : 1320px;
+	text-align : center;
+	margin-left : 5px;
+}
+
+.container{
+	
+	height : 500px;
+	position : center;
+	margin : 2px;
+	padding : 10px;
+	background-color : #f4f4f4;
+	width : 1310px;
+}	
+
+h2{
+	color : #00ced1;
+	font-family : calibri;
+	font-size : 40px; 
+	padding-left : 30px;
+	
+}
+
+input{
+	height : 50px;
+	font-size : 30px;
+	font-family : calibri; 
+	background-color : f4f4f4;
+	border-radius : 20px;
+
+}
+
+.text_fields{
+	border-radius : 10px;
+	background-color : white;
+	width :700px;
+	margin : 5px 30px;
+	
+}
+
+.label{
+	margin : 5px 30px;
+	font-family : calibri;
+	font-size : 25px;
+	
+}
+
+#adminlogin_button{
+	color : #f9f9f9;
+	background-color : #00ced1;
+	width : 700px;
+	margin : 5px 30px;
+	text-align :center;
+}
+
+
+#adminlogin_image{
+	border : 2px solid #f9f9f9;
+	border-radius : 20px;
+	margin : 5px;
+	float : left;
+	margin-top : 170px;
+	margin-left : 25px;
+}
+
+#form{
+	float : left;
+	padding : 30px;
+	padding-left : 5px;
+	width : 500px;
+	
+}
+
+#footer{
+	text-align : center;
+	background-color : black;
+	color : white;
+	width : 1330px;
+	margin-left : 2px;
+}
